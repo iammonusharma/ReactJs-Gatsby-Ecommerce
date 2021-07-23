@@ -36,7 +36,7 @@ export default class Navbar extends Component {
         return (
             <nav className="navbar navbar-expand-sm bg-theme nav-link text-black">
                 <Link to="/" className="navbar-brand ml-5 nav-link text-black">
-                <img src={logo} width="40px" alt="logo"/>
+                <img src={logo} width="40px" alt="logo"/> {' '}
                Learn By Self
                 </Link>
                 <button
