@@ -9,14 +9,9 @@ export default function Dualinfoblock({heading,imgLink}) {
             <div className="row">
                  <div className="col-8 mx-auto">
                      <p className="lead  mb-5">
-                         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                          Voluptatibus repellat quia maiores exercitationem.
-                           Nam voluptas blanditiis culpa ea facilis animi exercitationem, 
-                           necessitatibus quaerat eligendi ipsa dignissimos non provident 
-                           sapiente ut ducimus reiciendis quos beatae omnis! Eos soluta,
-                            laboriosam quasi, tempore minima obcaecati praesentium rerum
-                             dolore neque ducimus fuga assumenda minus.
-                             Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti maxime excepturi autem assumenda molestias dolorem velit nisi porro, a praesentium doloremque quos eveniet ex perferendis earum nesciunt sit adipisci natus id. Dolore quisquam blanditiis debitis doloribus, inventore obcaecati ea quis?
+                         My Name is Monu Sharma.I am a MERN stack and React Native Developer.I love programming and other tech stuff.
+                            I have a MCA degree from Guru Jambheshwar University Hisar Haryana which is a famous technological university.
+                            I love cricket and other outdoor games as well.
                      </p>
                  </div>
                  <div className="col-4">
