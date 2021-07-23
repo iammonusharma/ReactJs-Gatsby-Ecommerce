@@ -20,8 +20,8 @@ const IndexPage = ({data}) => (
     heroclass="hero-background"
     />
     <Infoblock heading="About Us"/> 
-    <BundleCart myBundles={data.myBundles}/>
     <Coursecart mycourses={data.mycourses}/>
+    <BundleCart myBundles={data.myBundles}/>
     
     <Dualinfoblock heading="Our Team" imgLink="https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"/>
   </Layout>
