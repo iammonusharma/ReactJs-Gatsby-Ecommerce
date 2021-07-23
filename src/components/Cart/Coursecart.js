@@ -39,7 +39,7 @@ export default class Coursecart extends Component {
         return (
             <section className="py-5">
                 <div className="container">
-                    <Heading title="Courses" />
+                    <Heading title="Stuff" />
                         <div className="col-10 mx-auto text-center ">
                             {this.state.mycatagories.map((category,index)=>{
                                 return(
