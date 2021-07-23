@@ -15,7 +15,7 @@ const IndexPage = ({data}) => (
     <Seo title="Home" />
     <HeroSection
     img={data.img.childImageSharp.fluid}
-    title="I write Code"
+    title="Monu Sharma"
     subtitle="Learnbyself.in"
     heroclass="hero-background"
     />
