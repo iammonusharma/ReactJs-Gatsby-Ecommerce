@@ -26,7 +26,7 @@ export default class BundleCart extends Component {
                                     <h6 className="mb-0">{node.title}</h6>
                                 </div>
                                 <div>
-                                    <h6 className="mt-2 text-success">RS{" "}{node.price}</h6>
+                                    <h6 className="mt-2 text-success">₹{" "}{node.price}</h6>
 
                                 </div>
                             
