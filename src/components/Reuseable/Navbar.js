@@ -56,7 +56,7 @@ export default class Navbar extends Component {
                             )
                         })}
                         <li className="nav-item">
-                            <Link to="https://easyreactstarter.netlify.app/#!/cart" 
+                            <Link to="https://monusharmacart.netlify.app/#!/cart" 
                             className="nav-link text-black">
                                 <FaCartArrowDown className="nav-icon text-black"/>
                             </Link>
