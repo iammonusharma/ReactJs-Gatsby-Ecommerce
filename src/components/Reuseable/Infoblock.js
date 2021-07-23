@@ -9,9 +9,10 @@ export default function Infoblock({heading}) {
                 <div className="row">
                     <div className="col-10 col-sm-8 mx-auto text-center">
                         <p className="lead text-white mb-4">
-                            My Name is Monu Sharma.I am a MERN stack and React Native Developer.I love programming and other tech stuff.
-                            I have a MCA degree from Guru Jambheshwar University Hisar Haryana which is a famous technological university.
-                            I love cricket and other outdoor games as well.
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                          Voluptatibus repellat quia maiores exercitationem.
+                           Nam voluptas blanditiis culpa ea facilis animi exercitationem, 
+                           necessitatibus quaerat eligendi ipsa dignissimos non provident 
                         </p>
                         <Link to="/About">
                             <button className="btn btn-warning btn-lg">
